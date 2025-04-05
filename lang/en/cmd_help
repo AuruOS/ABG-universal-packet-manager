@@ -1,0 +1,7 @@
+Abg is a package manager with support for build sources,another packet managers and android support.
+
+Usage:
+  abg [enter your commands]
+
+Flags:
+  -v, --version   version for apx

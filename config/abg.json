@@ -1,0 +1,5 @@
+{
+    "abgPath": "/usr/share/abg",
+    "distroboxPath": "/usr/share/abg/distrobox/distrobox",
+    "storageDriver": "overlay"
+}

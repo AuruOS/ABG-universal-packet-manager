@@ -1,0 +1,12 @@
+/debian/.debhelper
+/debian/abg
+/debian/debhelper-build-stamp
+/debian/files
+/debian/abg.substvars
+/obj-x86_64-linux-gnu
+.envrc
+abg
+*.service
+*.mount
+build.sh
+dist/
